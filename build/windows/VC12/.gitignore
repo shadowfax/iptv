@@ -1,0 +1,9 @@
+/Debug/
+*.opensdf
+*.suo
+*.sdf
+/LIB Debug/
+/LIB Release/
+/LIB Release - LIB OpenSSL - LIB LibSSH2/
+/Release/
+*.user

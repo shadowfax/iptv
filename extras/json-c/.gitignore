@@ -53,3 +53,4 @@
 *.o
 /libjson-c.la
 /libjson.la
+*.user

@@ -1,6 +1,8 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Express 2012 for Windows Desktop
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "movistartv", "movistartv.vcxproj", "{C3F47C1D-195C-419A-8D40-6F524E2AE0E4}"
 	ProjectSection(ProjectDependencies) = postProject
 		{DA6F56B4-06A4-441D-AD70-AC5A7D51FADB} = {DA6F56B4-06A4-441D-AD70-AC5A7D51FADB}
