@@ -2,3 +2,4 @@
 *.opensdf
 *.suo
 *.sdf
+/LIB Debug/

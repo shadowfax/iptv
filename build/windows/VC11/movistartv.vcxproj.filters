@@ -16,6 +16,9 @@
     <Filter Include="Source Files\sockets">
       <UniqueIdentifier>{0aae5293-5c5b-4c57-bda0-efc1c9924279}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Header Files\sockets">
+      <UniqueIdentifier>{a48a596d-063b-4f7b-aa70-4c451b1319a9}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="..\..\..\src\movistartv.c">
@@ -24,7 +27,7 @@
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="..\..\..\src\sockets\socket.h">
-      <Filter>Header Files</Filter>
+      <Filter>Header Files\sockets</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>
